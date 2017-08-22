@@ -1,0 +1,20 @@
+INFO 2017-08-21 23:02:03,255 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:03,258 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:03,259 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:03,259 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:03,260 (String de dados gerada com sucesso!) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:15,478 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:15,482 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:15,483 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:15,483 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:02:15,484 (String de dados gerada com sucesso!) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:39,125 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:39,129 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:39,130 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:39,130 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:39,130 (String de dados gerada com sucesso!) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:53,943 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:53,946 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:53,947 (Preparando o documento: 721.138.243-02 para: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:53,947 (Fazendo o build da string de dados para o CPF: 72113824302) Servico.BuilderStringDados  
+INFO 2017-08-21 23:03:53,948 (String de dados gerada com sucesso!) Servico.BuilderStringDados  

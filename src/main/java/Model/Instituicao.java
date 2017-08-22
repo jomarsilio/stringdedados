@@ -18,6 +18,10 @@ public class Instituicao {
 		this.usuario = usuario;
 		this.senha = senha;
 	}
+	
+	
+	public Instituicao() {
+	}
 
 	public String getUrl() {
 		return url;
